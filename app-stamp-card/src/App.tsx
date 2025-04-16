@@ -1,11 +1,11 @@
 
 import './App.css'
-
+import { StampCard } from './components/StampCard'
 function App() {
 
   return (
     <>
-      stamp
+      <StampCard />
     </>
   )
 }
